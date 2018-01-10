@@ -1,0 +1,40 @@
+reduce factor is 0.000
+2017-09-04 16:12:12.669699: precision @ 1 = 0.834
+reduce factor is 0.010
+2017-09-04 16:12:23.359990: precision @ 1 = 0.828
+reduce factor is 0.020
+2017-09-04 16:12:35.551384: precision @ 1 = 0.809
+reduce factor is 0.030
+2017-09-04 16:12:49.993213: precision @ 1 = 0.767
+reduce factor is 0.040
+2017-09-04 16:13:09.686375: precision @ 1 = 0.728
+reduce factor is 0.050
+2017-09-04 16:13:37.076748: precision @ 1 = 0.618
+reduce factor is 0.060
+2017-09-04 16:14:14.482767: precision @ 1 = 0.544
+reduce factor is 0.070
+2017-09-04 16:15:07.556816: precision @ 1 = 0.376
+reduce factor is 0.080
+2017-09-04 16:16:22.545064: precision @ 1 = 0.325
+reduce factor is 0.090
+2017-09-04 16:18:03.406304: precision @ 1 = 0.265
+reduce factor is 0.100
+2017-09-04 16:20:17.253416: precision @ 1 = 0.222
+reduce factor is 0.110
+2017-09-04 16:23:16.639850: precision @ 1 = 0.183
+reduce factor is 0.120
+2017-09-04 16:27:00.892096: precision @ 1 = 0.170
+reduce factor is 0.130
+2017-09-04 16:31:47.739212: precision @ 1 = 0.132
+reduce factor is 0.140
+2017-09-04 16:37:35.879305: precision @ 1 = 0.135
+reduce factor is 0.150
+2017-09-04 16:44:51.232929: precision @ 1 = 0.109
+reduce factor is 0.160
+2017-09-04 16:53:37.691011: precision @ 1 = 0.102
+reduce factor is 0.170
+2017-09-04 17:04:12.958528: precision @ 1 = 0.103
+reduce factor is 0.180
+2017-09-04 17:16:54.212436: precision @ 1 = 0.101
+reduce factor is 0.190
+2017-09-04 17:31:57.172083: precision @ 1 = 0.102
